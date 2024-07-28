@@ -1,0 +1,7 @@
+C:\Users\Marco\Desktop\VC\PROG7312\ICE 1\IndexProgram\IndexProgram\bin\Debug\IndexProgram.exe.config
+C:\Users\Marco\Desktop\VC\PROG7312\ICE 1\IndexProgram\IndexProgram\bin\Debug\IndexProgram.exe
+C:\Users\Marco\Desktop\VC\PROG7312\ICE 1\IndexProgram\IndexProgram\bin\Debug\IndexProgram.pdb
+C:\Users\Marco\Desktop\VC\PROG7312\ICE 1\IndexProgram\IndexProgram\obj\Debug\IndexProgram.csproj.AssemblyReference.cache
+C:\Users\Marco\Desktop\VC\PROG7312\ICE 1\IndexProgram\IndexProgram\obj\Debug\IndexProgram.csproj.CoreCompileInputs.cache
+C:\Users\Marco\Desktop\VC\PROG7312\ICE 1\IndexProgram\IndexProgram\obj\Debug\IndexProgram.exe
+C:\Users\Marco\Desktop\VC\PROG7312\ICE 1\IndexProgram\IndexProgram\obj\Debug\IndexProgram.pdb
