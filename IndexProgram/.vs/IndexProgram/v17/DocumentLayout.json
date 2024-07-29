@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Marco\\Desktop\\VC\\PROG7312\\ICE 1\\IndexProgram\\",
+  "WorkspaceRootPath": "C:\\Users\\Marco\\Desktop\\VC\\PROG7312\\ICE 1\\PROG7312-ICE1\\IndexProgram\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0E13BD91-32E5-4402-910E-A97BA3B71218}|IndexProgram.Tests\\IndexProgram.Tests.csproj|c:\\users\\marco\\desktop\\vc\\prog7312\\ice 1\\indexprogram\\indexprogram.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{190A3CC2-2F58-4BD7-A600-AB8B594E9190}|IndexProgram\\IndexProgram.csproj|C:\\Users\\Marco\\Desktop\\VC\\PROG7312\\ICE 1\\PROG7312-ICE1\\IndexProgram\\indexprogram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{190A3CC2-2F58-4BD7-A600-AB8B594E9190}|IndexProgram\\IndexProgram.csproj|solutionrelative:indexprogram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E13BD91-32E5-4402-910E-A97BA3B71218}|IndexProgram.Tests\\IndexProgram.Tests.csproj|c:\\users\\marco\\desktop\\vc\\prog7312\\ice 1\\prog7312-ice1\\indexprogram\\indexprogram.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E13BD91-32E5-4402-910E-A97BA3B71218}|IndexProgram.Tests\\IndexProgram.Tests.csproj|solutionrelative:indexprogram.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{190A3CC2-2F58-4BD7-A600-AB8B594E9190}|IndexProgram\\IndexProgram.csproj|c:\\users\\marco\\desktop\\vc\\prog7312\\ice 1\\indexprogram\\indexprogram\\index.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{190A3CC2-2F58-4BD7-A600-AB8B594E9190}|IndexProgram\\IndexProgram.csproj|solutionrelative:indexprogram\\index.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{190A3CC2-2F58-4BD7-A600-AB8B594E9190}|IndexProgram\\IndexProgram.csproj|c:\\users\\marco\\desktop\\vc\\prog7312\\ice 1\\indexprogram\\indexprogram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{190A3CC2-2F58-4BD7-A600-AB8B594E9190}|IndexProgram\\IndexProgram.csproj|solutionrelative:indexprogram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{190A3CC2-2F58-4BD7-A600-AB8B594E9190}|IndexProgram\\IndexProgram.csproj|c:\\users\\marco\\desktop\\vc\\prog7312\\ice 1\\prog7312-ice1\\indexprogram\\indexprogram\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{190A3CC2-2F58-4BD7-A600-AB8B594E9190}|IndexProgram\\IndexProgram.csproj|solutionrelative:indexprogram\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,39 +34,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Marco\\Desktop\\VC\\PROG7312\\ICE 1\\PROG7312-ICE1\\IndexProgram\\IndexProgram\\Student.cs",
+              "RelativeDocumentMoniker": "IndexProgram\\Student.cs",
+              "ToolTip": "C:\\Users\\Marco\\Desktop\\VC\\PROG7312\\ICE 1\\PROG7312-ICE1\\IndexProgram\\IndexProgram\\Student.cs",
+              "RelativeToolTip": "IndexProgram\\Student.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAADwv2sAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T12:57:09.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "UnitTest1.cs",
-              "DocumentMoniker": "C:\\Users\\Marco\\Desktop\\VC\\PROG7312\\ICE 1\\IndexProgram\\IndexProgram.Tests\\UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Marco\\Desktop\\VC\\PROG7312\\ICE 1\\PROG7312-ICE1\\IndexProgram\\IndexProgram.Tests\\UnitTest1.cs",
               "RelativeDocumentMoniker": "IndexProgram.Tests\\UnitTest1.cs",
-              "ToolTip": "C:\\Users\\Marco\\Desktop\\VC\\PROG7312\\ICE 1\\IndexProgram\\IndexProgram.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Marco\\Desktop\\VC\\PROG7312\\ICE 1\\PROG7312-ICE1\\IndexProgram\\IndexProgram.Tests\\UnitTest1.cs",
               "RelativeToolTip": "IndexProgram.Tests\\UnitTest1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-28T12:20:52.102Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cs",
-              "DocumentMoniker": "C:\\Users\\Marco\\Desktop\\VC\\PROG7312\\ICE 1\\IndexProgram\\IndexProgram\\Index.cs",
-              "RelativeDocumentMoniker": "IndexProgram\\Index.cs",
-              "ToolTip": "C:\\Users\\Marco\\Desktop\\VC\\PROG7312\\ICE 1\\IndexProgram\\IndexProgram\\Index.cs",
-              "RelativeToolTip": "IndexProgram\\Index.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-28T12:19:17.034Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Marco\\Desktop\\VC\\PROG7312\\ICE 1\\IndexProgram\\IndexProgram\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Marco\\Desktop\\VC\\PROG7312\\ICE 1\\PROG7312-ICE1\\IndexProgram\\IndexProgram\\Program.cs",
               "RelativeDocumentMoniker": "IndexProgram\\Program.cs",
-              "ToolTip": "C:\\Users\\Marco\\Desktop\\VC\\PROG7312\\ICE 1\\IndexProgram\\IndexProgram\\Program.cs",
+              "ToolTip": "C:\\Users\\Marco\\Desktop\\VC\\PROG7312\\ICE 1\\PROG7312-ICE1\\IndexProgram\\IndexProgram\\Program.cs",
               "RelativeToolTip": "IndexProgram\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-28T12:18:51.265Z",
               "EditorCaption": ""

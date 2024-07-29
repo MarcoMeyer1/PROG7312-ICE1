@@ -1,67 +1,47 @@
-﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using IndexProject;
-using System;
-using System.IO;
+﻿using IndexProgram;
+using Microsoft.VisualStudio.TestTools.UnitTesting;
 using IndexProgram;
 
-namespace IndexProject.Tests
+namespace IndexProgram.Tests
 {
     [TestClass]
-    public class IndexTests
+    public class StudentTests
     {
         [TestMethod]
-        public void TestIndexSetAndGet()
+        public void TestStudentId()
         {
-            var index = new Index(5);
-            index[0] = 10;
-            Assert.AreEqual(10, index[0]);
+            Student student = new Student("S001", "John", "Doe", "Mathematics", 85.5);
+            Assert.AreEqual("S001", student[0]);
         }
 
         [TestMethod]
-        public void TestIndexOutOfRange()
+        public void TestFirstName()
         {
-            var index = new Index(5);
-            Assert.ThrowsException<IndexOutOfRangeException>(() => index[5] = 10);
+            Student student = new Student("S001", "John", "Doe", "Mathematics", 85.5);
+            Assert.AreEqual("John", student[1]);
         }
 
         [TestMethod]
-        public void TestDisplay()
+        public void TestUpdateLastName()
         {
-            var index = new Index(3);
-            index[0] = 1;
-            index[1] = 2;
-            index[2] = 3;
-
-            using (var sw = new StringWriter())
-            {
-                Console.SetOut(sw);
-                index.Display();
-                var result = sw.ToString().Trim();
-                Assert.AreEqual("1\r\n2\r\n3", result);
-            }
+            Student student = new Student("S001", "John", "Doe", "Mathematics", 85.5);
+            student[2] = "Smith";
+            Assert.AreEqual("Smith", student[2]);
         }
 
         [TestMethod]
-        public void TestInitialValues()
+        public void TestCourse()
         {
-            var index = new Index(4);
-            for (int i = 0; i < 4; i++)
-            {
-                Assert.AreEqual(0, index[i], $"Initial value at index {i} should be 0.");
-            }
+            Student student = new Student("S001", "John", "Doe", "Mathematics", 85.5);
+            Assert.AreEqual("Mathematics", student[3]);
         }
 
         [TestMethod]
-        public void TestUpdateValues()
+        public void TestUpdateGrade()
         {
-            var index = new Index(3);
-            index[0] = 5;
-            index[1] = 10;
-            index[2] = 15;
-
-            Assert.AreEqual(5, index[0]);
-            Assert.AreEqual(10, index[1]);
-            Assert.AreEqual(15, index[2]);
+            Student student = new Student("S001", "John", "Doe", "Mathematics", 85.5);
+            student[4] = 90.0;
+            Assert.AreEqual(90.0, student[4]);
         }
     }
 }
